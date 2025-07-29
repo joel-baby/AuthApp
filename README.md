@@ -1,1 +1,1 @@
-A simple auth app using supabase
+A simple auth app using flutter and supabase
